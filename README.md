@@ -1,12 +1,35 @@
-# Icons
+# YouTube Studio Assistant - Website
 
-Untuk menggunakan ekstensi ini, kamu perlu membuat icon PNG dengan ukuran:
-- icon16.png (16x16 pixels)
-- icon48.png (48x48 pixels)  
-- icon128.png (128x128 pixels)
+Official promotional website for YouTube Studio Assistant Chrome Extension.
 
-Kamu bisa menggunakan tool online seperti:
-- https://favicon.io/
-- https://www.canva.com/
+## About
 
-Atau gunakan icon sederhana dengan warna biru (#4285f4) dan teks "YT".
+YouTube Studio Assistant is an AI-powered Chrome extension that helps YouTube creators:
+- Generate viral titles, descriptions, and tags using AI (Gemini, OpenAI, DeepSeek)
+- Auto-translate video metadata to 110+ languages
+- Streamline content optimization workflow
+
+## Website
+
+Visit the live website: [https://bandioke.github.io/youtube-studio-assistant/](https://bandioke.github.io/youtube-studio-assistant/)
+
+## Features Highlighted
+
+- **AI Content Generator** - Create optimized titles and descriptions in seconds
+- **Multi-Language Translation** - Reach global audiences with automatic translation
+- **Modern UI** - Beautiful dark mode interface integrated with YouTube Studio
+
+## Documentation
+
+- [Privacy Policy (English)](PRIVACY-POLICY.md)
+- [Privacy Policy (Indonesian)](PRIVACY-POLICY-ID.md)
+- [Changelog](CHANGELOG.md)
+- [Troubleshooting](TROUBLESHOOTING.md)
+
+## Contact
+
+For support or inquiries: hoybeecreativsdigital@gmail.com
+
+---
+
+© 2025 PT. HOYBEE CREATIVS DIGITAL. All rights reserved.
