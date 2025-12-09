@@ -1,0 +1,41 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube Studio Assistant",
+  "version": "1.0.0",
+  "description": "AI-powered assistant for YouTube creators: Generate titles, descriptions, tags, and auto-translate to 110+ languages with Gemini, OpenAI & DeepSeek",
+  "permissions": [
+    "activeTab",
+    "storage"
+  ],
+  "host_permissions": [
+    "https://studio.youtube.com/*",
+    "https://generativelanguage.googleapis.com/*",
+    "https://api.openai.com/*",
+    "https://api.deepseek.com/*",
+    "https://api.lemonsqueezy.com/*",
+    "https://www.google-analytics.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://studio.youtube.com/*"],
+      "js": ["locales.js", "translations.js", "license.js", "analytics.js", "themes.js", "ui-builder.js", "content.js"],
+      "css": ["styles.css"]
+    }
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  },
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}
