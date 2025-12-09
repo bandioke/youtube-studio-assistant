@@ -1,4 +1,4 @@
-# YouTube Studio Assistant - Website
+# YouTube Studio Assistant
 
 Official promotional website for YouTube Studio Assistant Chrome Extension.
 
@@ -12,19 +12,6 @@ YouTube Studio Assistant is an AI-powered Chrome extension that helps YouTube cr
 ## Website
 
 Visit the live website: [https://bandioke.github.io/youtube-studio-assistant/](https://bandioke.github.io/youtube-studio-assistant/)
-
-## Features Highlighted
-
-- **AI Content Generator** - Create optimized titles and descriptions in seconds
-- **Multi-Language Translation** - Reach global audiences with automatic translation
-- **Modern UI** - Beautiful dark mode interface integrated with YouTube Studio
-
-## Documentation
-
-- [Privacy Policy (English)](PRIVACY-POLICY.md)
-- [Privacy Policy (Indonesian)](PRIVACY-POLICY-ID.md)
-- [Changelog](CHANGELOG.md)
-- [Troubleshooting](TROUBLESHOOTING.md)
 
 ## Contact
 
